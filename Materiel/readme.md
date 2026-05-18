@@ -9,3 +9,6 @@ Processeur :
 
 Ram : 
 - DDR4 3200 8 Go
+
+Boitier : 
+- Fractal Node Design 304 : 100€ [LDLC](https://www.ldlc.com/fiche/PB00135558.html?gad_source=1&gad_campaignid=23500164385&gbraid=0AAAABClChtbYuSjS33DL55u8is6etKZra&gclid=CjwKCAjw8arQBhB9EiwAfIKdQs4iBCvLunpB3m5GvxVAEPWVEgJzEu2R0eEzUQWHgrBXhUcitd3QQhoCgdEQAvD_BwE)
